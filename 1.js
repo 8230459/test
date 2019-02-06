@@ -12,5 +12,6 @@ export default {
     deleteData: `${domain}/data/deleteData`,
     delRow: `${domain}/data/deleteDataById`,
     modifyRow: `${domain}/data/updateData`,
+    modifyRow1111: `${domain}/data/updateData2222`,
 }
 

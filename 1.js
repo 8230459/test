@@ -12,7 +12,7 @@ export default {
     deleteData: `${domain}/data/deleteData`,
     delRow: `${domain}/data/deleteDataById`,
     modifyRow111: `${domain}/data/updateData222`,
-    modifyRow333: `${domain}/data/updateData333`,
+    modifyRow: `${domain}/data/updateData`,
 
 }
 
